@@ -1,0 +1,67 @@
+#amin/backend
+    #assets
+      *css
+        -style.css
+        -bootstrap.css
+        --------
+      *js
+        -jquery.js
+        -bootstrap.js
+        --------
+      *images/imgs
+        -slider.jpg
+        -avatar.png
+        --------
+      *fonts/webfonts
+        -arial.ttf
+        -sans.wtf
+        --------
+    #inc
+      -config.pho
+      -functions.php
+      -objects.php
+      --------
+    #templates
+      -header.php
+      -footer.php
+      -sidebar.php
+      -navigation.php
+      -------
+
+    -dashboard.php
+    -404.php
+    -----------
+
+#assets
+  *css
+    -style.css
+    -bootstrap.css
+    --------
+  *js
+    -jquery.js
+    -bootstrap.js
+    --------
+  *images/imgs
+    -slider.jpg
+    -avatar.png
+    --------
+  *fonts/webfonts
+    -arial.ttf
+    -sans.wtf
+    --------
+#inc
+  -config.pho
+  -functions.php
+  -objects.php
+  --------
+#templates
+  -header.php
+  -footer.php
+  -sidebar.php
+  -navigation.php
+  -------
+
+-index.php
+-404.php
+-contact.php
+------
